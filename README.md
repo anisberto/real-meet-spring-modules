@@ -12,7 +12,7 @@ Aplicativo de Registro e locação de salas em tempo real.
   <a href="https://github.com/anisberto">
     <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-DEV-blue">
   </a>
-    <a href="https://anisberto.com.br" target="blanck"/>
+    <a href="https://www.anisberto.com.br/" target="_blank"></a>
     <img alt="SDS" src="https://img.shields.io/badge/Site-Anisberto">
   </a>
 </p>
